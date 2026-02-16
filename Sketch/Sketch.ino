@@ -2,9 +2,9 @@
 #include <Servo.h>
 
 // ================= DATOS DEL PROYECTO =================
-const char* SSID_WIFI = "Red Vip";        // Tu Wifi
-const char* PASS_WIFI = "AlexRJ2024";               // Tu Clave
-const char* IP_SERVER = "192.168.0.109";  // Tu Laptop
+const char* SSID_WIFI = "";        // Tu Wifi
+const char* PASS_WIFI = "";               // Tu Clave
+const char* IP_SERVER = "";  // Tu Laptop
 const int   PUERTO    = 5000;
 
 // Usamos NeoSWSerial en lugar de SoftwareSerial
